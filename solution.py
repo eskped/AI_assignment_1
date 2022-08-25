@@ -1,5 +1,4 @@
 import random
-from turtle import distance
 from constants import *
 from environment import *
 from state import State
