@@ -1,5 +1,6 @@
-# AI_assignment_1
+# Implementation of BFS and UCS
 
-This is an assignment in an AI course at UQ. 
+This is an assignment in COMP3702 Artificial Intelligencd at University of Brisbane. 
 
-My implementation of UCS and A* is in the file solution.py
+The mplementation of UCS and A* solution.py
+
